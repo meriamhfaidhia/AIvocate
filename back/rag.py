@@ -98,7 +98,7 @@ def format_docs(docs: List[Document]) -> str:
 # ===========================
 # Recherche Google via SerpAPI
 # ===========================
-SERPAPI_KEY = "a15d16d9c5b7eedc9a6b23828b0aad3d42c0f90ee09d084c41b4acfd7a4b03c5"  
+SERPAPI_KEY = ""  
 
 def search_google_serpapi(query: str, num_results: int = 3):
     params = {
