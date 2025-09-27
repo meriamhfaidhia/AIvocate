@@ -24,8 +24,8 @@ from transformers import pipeline
 # CONFIG - à personnaliser
 # ---------------------------
 IMAP_HOST = "imap.gmail.com"
-IMAP_USER = "meriamhfaidhia@gmail.com"
-IMAP_PASS = "ruid vyly nhpv uhlc"
+IMAP_USER = "user"
+IMAP_PASS = "mdp"
 MAILBOX = "INBOX"
 FETCH_LIMIT = 100
 
